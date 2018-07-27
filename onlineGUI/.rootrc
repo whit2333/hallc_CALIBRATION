@@ -1,2 +1,0 @@
-Rint.History: .root_history
-Unix.*.Root.MacroPath: .:$(ROOTSYS)/macros:./Macros
